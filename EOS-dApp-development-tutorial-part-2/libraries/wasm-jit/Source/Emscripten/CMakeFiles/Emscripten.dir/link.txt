@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libEmscripten.a  CMakeFiles/Emscripten.dir/Emscripten.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libEmscripten.a

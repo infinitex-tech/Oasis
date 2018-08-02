@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libIR.a  CMakeFiles/IR.dir/DisassemblyNames.cpp.o CMakeFiles/IR.dir/Operators.cpp.o CMakeFiles/IR.dir/Types.cpp.o CMakeFiles/IR.dir/Validate.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libIR.a

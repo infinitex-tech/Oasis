@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libbuiltins.a  CMakeFiles/builtins.dir/fixtfti.c.o CMakeFiles/builtins.dir/fixunstfti.c.o CMakeFiles/builtins.dir/fixsfti.c.o CMakeFiles/builtins.dir/fixdfti.c.o CMakeFiles/builtins.dir/fixunssfti.c.o CMakeFiles/builtins.dir/fixunsdfti.c.o CMakeFiles/builtins.dir/floattidf.c.o CMakeFiles/builtins.dir/floatuntidf.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libbuiltins.a

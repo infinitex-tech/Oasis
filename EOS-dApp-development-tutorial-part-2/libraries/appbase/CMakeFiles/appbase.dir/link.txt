@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libappbase.a  CMakeFiles/appbase.dir/application.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libappbase.a

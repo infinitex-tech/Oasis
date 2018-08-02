@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -Wno-deprecated-declarations -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Disassemble.dir/Disassemble.cpp.o  -o Disassemble ../Logging/libLogging.a ../IR/libIR.a ../WAST/libWAST.a ../WASM/libWASM.a ../IR/libIR.a ../Logging/libLogging.a ../Platform/libPlatform.a 

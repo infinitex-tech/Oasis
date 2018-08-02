@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "reveal": "always",
+    "options": {
+        "cwd": "${workspaceRoot}"
+    },
+    "tasks": [
+        {
+            "label": "CMake",
+            "type": "shell",
+            "command": "sh ${workspaceRoot}/.vscode/scripts/compile.sh"
+        },
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "sh ${workspaceRoot}/.vscode/scripts/build.sh"            
+        },
+        {
+            "label": "Generate ABI",
+            "type": "shell",
+            "command": "sh ${workspaceRoot}/.vscode/scripts/generate.sh ${fileDirname} ${fileBasenameNoExtension}",
+        }
+    ]
+}

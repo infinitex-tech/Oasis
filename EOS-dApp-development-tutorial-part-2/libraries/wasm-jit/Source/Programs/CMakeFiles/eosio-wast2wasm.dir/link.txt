@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -Wno-deprecated-declarations -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/eosio-wast2wasm.dir/Assemble.cpp.o  -o eosio-wast2wasm ../Logging/libLogging.a ../IR/libIR.a ../WAST/libWAST.a ../WASM/libWASM.a ../IR/libIR.a ../Logging/libLogging.a ../Platform/libPlatform.a 

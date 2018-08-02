@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libchainbase.a  CMakeFiles/chainbase.dir/src/chainbase.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libchainbase.a
